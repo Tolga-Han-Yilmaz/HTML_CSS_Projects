@@ -9,7 +9,7 @@ HTML CSS Projects
       <th align="left" width="15%">Project Name</th>
       <th align="left" width="15%">Repo Link</th>
       <th align="left">App Link</th>
-      <th align="right">Overview</th>
+      <th align="center">Overview</th>
     </tr>
   </thead>
   <tbody>
