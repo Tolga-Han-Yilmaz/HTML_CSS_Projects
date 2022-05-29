@@ -5,10 +5,10 @@ HTML CSS Projects
   <caption>HMTL-CSS PROJECTS<caption>
   <thead>
     <tr>
-      <th>S.Nu</td>
+      <th width="10%">S.Nu</td>
       <th align="left" width="15%">Project Name</th>
       <th align="left" width="15%">Repo Link</th>
-      <th align="left">App Link</th>
+      <th align="left" width="15%">App Link</th>
       <th align="center">Overview</th>
     </tr>
   </thead>
