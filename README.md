@@ -20,5 +20,12 @@ HTML CSS Projects
       <td><a href="https://tolga-han-yilmaz.github.io/google_1998/" target="_blank">App Details</td>
       <td><img src="./google1998.png" alt="google1998" style="height:100px;"></td>
     </tr>
+    <tr>
+      <td align=center >2.</td>
+      <td>Shopping List</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/Alis-veris-Project" target="_blank">Repo Details</td>
+      <td><a href="https://tolga-han-yilmaz.github.io/Alis-veris-Project/" target="_blank">App Details</td>
+      <td><img src="./2-alısveris.png" alt="alis-veris"></td>
+    </tr>
    </tbody>
 </table>
