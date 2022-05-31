@@ -13,40 +13,47 @@ HTML CSS Projects
     </tr>
   </thead>
   <tbody>
-    <tr>
+     <tr>
       <td align=center >1.</td>
       <td>Google 1998</td>
       <td><a href="https://github.com/Tolga-Han-Yilmaz/google_1998" target="_blank">Repo Details</td>
       <td><a href="https://tolga-han-yilmaz.github.io/google_1998/" target="_blank">App Details</td>
-      <td><img src="./google1998.png" alt="google1998" style="height:125px;"></td>
+      <td><img src="./img/google1998.png" alt="google1998"></td>
     </tr>
     <tr>
       <td align=center >2.</td>
       <td>Shopping List</td>
       <td><a href="https://github.com/Tolga-Han-Yilmaz/Alis-veris-Project" target="_blank">Repo Details</td>
       <td><a href="https://tolga-han-yilmaz.github.io/Alis-veris-Project/" target="_blank">App Details</td>
-      <td><img src="./2-alısveris.png" alt="alis-veris" style="height:125px;"></td>
+      <td><img src="./img/2-alısveris.png" alt="alis-veris"></td>
     </tr>
     <tr>
       <td align=center >3.</td>
       <td>Life of Martin Lieber</td>
       <td><a href="https://github.com/Tolga-Han-Yilmaz/Martin-Lieber" target="_blank">Repo Details</td>
       <td><a href="https://tolga-han-yilmaz.github.io/Martin-Lieber/" target="_blank">App Details</td>
-      <td><img src="./3-martinlieber.gif" alt="martinlieber" style="height:125px;"></td>
+      <td><img src="./img/3-martinlieber.gif" alt="martinlieber"></td>
     </tr>
-     <tr>
+    <tr>
       <td align=center >4.</td>
       <td>Netflix Frontend</td>
       <td><a href="https://github.com/Tolga-Han-Yilmaz/Survey-From-Project" target="_blank">Repo Details</td>
       <td><a href="https://tolga-han-yilmaz.github.io/Survey-From-Project/" target="_blank">App Details</td>
-      <td><img src="./4-netflix.png" alt="netflix" style="height:125px;"></td>
+      <td><img src="./img/4-netflix.png" alt="netflix"></td>
     </tr>
     <tr>
       <td align=center >5.</td>
       <td>Google Page</td>
       <td><a href="https://github.com/Tolga-Han-Yilmaz/google-landing-project" target="_blank">Repo Details</td>
       <td><a href="https://tolga-han-yilmaz.github.io/google-landing-project/" target="_blank">App Details</td>
-      <td><img src="./5-google.gif" alt="google" style="height:125px;"></td>
+      <td><img src="./img/5-google.gif" alt="google"></td>
+    </tr>
+    <tr>
+      <td align=center >6.</td>
+      <td>Left Drop Down Menu</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/sol-acilir-menu" target="_blank">Repo Details</td>
+      <td><a href="https://tolga-han-yilmaz.github.io/sol-acilir-menu/" target="_blank">App Details</td>
+      <td><img src="./img/6-menu.gif" alt="menu"></td>
     </tr>
    </tbody>
 </table>
