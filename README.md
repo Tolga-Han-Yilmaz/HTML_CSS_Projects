@@ -41,5 +41,12 @@ HTML CSS Projects
       <td><a href="https://tolga-han-yilmaz.github.io/Survey-From-Project/" target="_blank">App Details</td>
       <td><img src="./4-netflix.png" alt="netflix" style="height:125px;"></td>
     </tr>
+    <tr>
+      <td align=center >5.</td>
+      <td>Google Page</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/google-landing-project" target="_blank">Repo Details</td>
+      <td><a href="https://tolga-han-yilmaz.github.io/google-landing-project/" target="_blank">App Details</td>
+      <td><img src="./5-google.gif" alt="google" style="height:125px;"></td>
+    </tr>
    </tbody>
 </table>
