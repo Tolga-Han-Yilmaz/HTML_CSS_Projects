@@ -55,5 +55,12 @@ HTML CSS Projects
       <td><a href="https://tolga-han-yilmaz.github.io/sol-acilir-menu/" target="_blank">App Details</td>
       <td><img src="./img/6-menu.gif" alt="menu"></td>
     </tr>
+    <tr>
+      <td align=center >7.</td>
+      <td>Parallax Website</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/ParallaxWebsite" target="_blank">Repo Details</td>
+      <td><a href="https://tolga-han-yilmaz.github.io/ParallaxWebsite/" target="_blank">App Details</td>
+      <td><img src="./img/7-parallaxwebsite.gif" alt="parallaxWebsite"></td>
+    </tr>
    </tbody>
 </table>
