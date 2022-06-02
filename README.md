@@ -69,5 +69,12 @@ HTML CSS Projects
       <td><a href="https://tolga-han-yilmaz.github.io/blog-project/" target="_blank">App Details</td>
       <td><img src="./img/8-blog.gif" alt="blog page"></td>
     </tr>
+    <tr>
+      <td align=center >9.</td>
+      <td>Flex Navbar</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/flex-navbar" target="_blank">Repo Details</td>
+      <td><a href="https://tolga-han-yilmaz.github.io/flex-navbar/" target="_blank">App Details</td>
+      <td><img src="./img/9-flex-navbar.gif" alt="navbar"></td>
+    </tr>
    </tbody>
 </table>
