@@ -62,5 +62,12 @@ HTML CSS Projects
       <td><a href="https://tolga-han-yilmaz.github.io/ParallaxWebsite/" target="_blank">App Details</td>
       <td><img src="./img/7-parallaxwebsite.gif" alt="parallaxWebsite"></td>
     </tr>
+    <tr>
+      <td align=center >8.</td>
+      <td>Sample Blog Page</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/blog-project" target="_blank">Repo Details</td>
+      <td><a href="https://tolga-han-yilmaz.github.io/blog-project/" target="_blank">App Details</td>
+      <td><img src="./img/8-blog.gif" alt="blog page"></td>
+    </tr>
    </tbody>
 </table>
