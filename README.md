@@ -76,5 +76,12 @@ HTML CSS Projects
       <td><a href="https://tolga-han-yilmaz.github.io/flex-navbar/" target="_blank">App Details</td>
       <td><img src="./img/9-flex-navbar.gif" alt="navbar"></td>
     </tr>
+    <tr>
+      <td align=center >10.</td>
+      <td>Flex Grid</td>
+      <td><a href="https://github.com/Tolga-Han-Yilmaz/flex-grid" target="_blank">Repo Details</td>
+      <td><a href="https://tolga-han-yilmaz.github.io/flex-grid/" target="_blank">App Details</td>
+      <td><img src="./img/10-grid.png" alt="grid" height="175px"></td>
+    </tr>
    </tbody>
 </table>
