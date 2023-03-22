@@ -53,7 +53,7 @@ HTML CSS Projects
       <td>Left Drop Down Menu</td>
       <td><a href="https://github.com/Tolga-Han-Yilmaz/sol-acilir-menu" target="_blank">Repo Details</td>
       <td><a href="https://tolga-han-yilmaz.github.io/sol-acilir-menu/" target="_blank">App Details</td>
-      <td><img src="./img/6-menu.gif" alt="menu"></td>
+      <td><img src="./img/6-menu.gif" alt="menuu"></td>
     </tr>
     <tr>
       <td align=center >7.</td>
